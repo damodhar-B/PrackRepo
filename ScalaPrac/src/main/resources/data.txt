@@ -1,4 +1,11 @@
-sample data
-kddkdkd
-dddddd
+git commands
+--------------------
+
+
+>git init
+>git add 'project'
+>git commit -m "text message here"
+>git remote add origin 'git repository url here'
+>git remote -v							//to check the remote origin
+>git push origin 'branch name here'				//can use -f flag after push
 
