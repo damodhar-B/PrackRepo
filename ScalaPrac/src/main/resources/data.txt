@@ -8,6 +8,10 @@ git commands
 >git remote add origin 'git repository url here'
 >git remote -v							//to check the remote origin
 >git push origin 'branch name here'				//can use -f flag after push
+<<<<<<< HEAD
 >git merge 'subbranch'
 
+=======
+>git merge 'sub branch'
+>>>>>>> damu
 
